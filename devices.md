@@ -4,6 +4,8 @@
 
 bacon | SferaDev, Ayysir
 
+G3 | bryan2894
+
 n5110 | SferaDev
 
 sirius | tomgus1
