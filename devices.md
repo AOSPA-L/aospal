@@ -6,6 +6,8 @@ bacon | SferaDev, Ayysir
 
 G3 | bryan2894
 
+moto_msm8960 | cj360
+
 n5110 | SferaDev
 
 sirius | tomgus1
