@@ -10,6 +10,8 @@ n5110 | SferaDev
 
 sirius | tomgus1
 
+tomato | Men_in_black007
+
 ## Deprecated devices ##
 
 galaxysmtd | SferaDev
