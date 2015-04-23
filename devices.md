@@ -2,9 +2,11 @@
 
 ## Working devices on latest AOSPA-L version ##
 
-bacon | SferaDev, Ayysir
+bacon | SferaDev, Ayysir, xboxfanj
 
 G3 | bryan2894
+
+m8 | xboxfanj
 
 moto_msm8960 | cj360
 
