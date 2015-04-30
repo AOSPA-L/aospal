@@ -8,8 +8,6 @@ G3 | bryan2894
 
 m8 | xboxfanj
 
-moto_msm8960 | cj360
-
 n5110 | SferaDev
 
 odin | SuperHanss
@@ -17,6 +15,8 @@ odin | SuperHanss
 sirius | tomgus1
 
 tomato | Men_in_black007
+
+xt926 | cj360
 
 yuga | SuperHanss
 
