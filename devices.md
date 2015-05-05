@@ -4,6 +4,8 @@
 
 bacon | SferaDev, Ayysir, xboxfanj
 
+dlx | tes4p00ner
+
 falcon | DC07
 
 G3 | bryan2894
