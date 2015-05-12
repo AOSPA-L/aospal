@@ -4,6 +4,8 @@
 
 bacon | SferaDev, Ayysir, xboxfanj
 
+condor | TheStrix
+
 dlx | tes4p00ner
 
 falcon | DC07

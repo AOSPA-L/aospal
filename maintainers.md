@@ -15,6 +15,8 @@ SuperHanss <superhanss@aospal.com>
 
 tes4p00ner <bryan.smith.dev@gmail.com>
 
+TheStrix <parthbhatia98@gmail.com>
+
 tomgus1 <tomgus1.2@gmail.com>
 
 WillPresley <will@aospal.com>
