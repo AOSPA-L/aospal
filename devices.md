@@ -10,6 +10,8 @@ dlx | tes4p00ner
 
 falcon | DC07
 
+ghost | Megatron007, DC07
+
 G3 [D850, D851, D852, D855, LS990, VS985] | bryan2894, WillPresley
 
 m8 | xboxfanj
