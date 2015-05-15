@@ -2,6 +2,8 @@
 
 ## Working devices on latest AOSPA-L version ##
 
+armani | TechExhibeo
+
 bacon | SferaDev, Ayysir, xboxfanj
 
 condor | TheStrix

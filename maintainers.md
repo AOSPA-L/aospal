@@ -15,6 +15,8 @@ SferaDev <me@sferadev.com>
 
 SuperHanss <superhanss@aospal.com>
 
+TechExhibeo <TechExhibeo@gmail.com>
+
 tes4p00ner <bryan.smith.dev@gmail.com>
 
 TheStrix <parthbhatia98@gmail.com>
