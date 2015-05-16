@@ -22,6 +22,8 @@ n5110 | SferaDev
 
 odin | SuperHanss
 
+peregrine | Kayant
+
 sirius | tomgus1
 
 titan | DC07
