@@ -11,6 +11,8 @@ Megatron007 <djomi400@gmail.com>
 
 Men_in_black007 <sanyam.53jain@gmail.com>
 
+Saatvik Shukla <me@saatvikshukla.com>
+
 SferaDev <me@sferadev.com>
 
 SuperHanss <superhanss@aospal.com>
