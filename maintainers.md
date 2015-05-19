@@ -9,6 +9,8 @@ DC07 <deveshnegi.3105.dn@gmail.com>
 
 Kayant <anthonysanwo@googlemail.com>
 
+jumoog <me@jumoog.io>
+
 Megatron007 <djomi400@gmail.com>
 
 Men_in_black007 <sanyam.53jain@gmail.com>
