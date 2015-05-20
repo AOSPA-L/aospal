@@ -2,6 +2,8 @@
 
 ## Working devices on latest AOSPA-L version ##
 
+amami | Saatvik Shukla
+
 armani | TechExhibeo
 
 bacon | SferaDev, Ayysir, xboxfanj
