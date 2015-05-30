@@ -8,6 +8,8 @@ armani | TechExhibeo
 
 bacon | SferaDev, Ayysir, xboxfanj
 
+cancro | SynnyG
+
 condor | TheStrix
 
 dlx | tes4p00ner

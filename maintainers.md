@@ -21,6 +21,8 @@ SferaDev <me@sferadev.com>
 
 SuperHanss <superhanss@aospal.com>
 
+SynnyG <synnyg.devand@gmail.com>
+
 TechExhibeo <TechExhibeo@gmail.com>
 
 tes4p00ner <bryan.smith.dev@gmail.com>
