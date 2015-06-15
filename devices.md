@@ -38,7 +38,7 @@ peregrine | Kayant
 
 sirius | tomgus1
 
-titan | DC07
+titan | DC07, Thecrazyskull
 
 togari | Saatvik Shukla
 

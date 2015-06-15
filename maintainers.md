@@ -35,4 +35,6 @@ WillPresley <will@aospal.com>
 
 xboxfanj <xboxlover360@gmail.com>
 
+Thecrazyskull <anaskarbila@gmail.com>
+
 ## Previous ##
