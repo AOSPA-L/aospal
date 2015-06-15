@@ -26,6 +26,8 @@ honami | Saatvik Shukla
 
 i9300 | jumoog
 
+lettuce | SferaDev, Men_in_black007
+
 m8 | xboxfanj
 
 n5110 | SferaDev
