@@ -7,6 +7,8 @@ cj360   <ayunker551@gmail.com>
 
 DC07 <deveshnegi.3105.dn@gmail.com>
 
+DeviousFusion <dj3tusk@gmail.com>
+
 Kayant <anthonysanwo@googlemail.com>
 
 jumoog <me@jumoog.io>
