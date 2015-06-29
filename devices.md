@@ -38,6 +38,8 @@ peregrine | Kayant
 
 sirius | tomgus1
 
+taoshan | DeviousFusion
+
 titan | DC07, Thecrazyskull
 
 togari | Saatvik Shukla
