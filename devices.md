@@ -42,6 +42,8 @@ sirius | tomgus1
 
 skyrocket | bryan2894
 
+taoshan | DeviousFusion
+
 titan | DC07, Thecrazyskull
 
 togari | Saatvik Shukla
@@ -51,6 +53,8 @@ tomato | Men_in_black007
 xt926 | cj360
 
 yuga | SuperHanss
+
+z3 | DeviousFusion
 
 ## Deprecated devices ##
 
