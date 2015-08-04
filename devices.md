@@ -52,8 +52,6 @@ tomato | Men_in_black007
 
 victara | gdanko
 
-xt926 | cj360
-
 yuga | SuperHanss
 
 Z00A | Niropa
@@ -63,3 +61,5 @@ z3 | DeviousFusion
 ## Deprecated devices ##
 
 galaxysmtd | SferaDev
+
+xt926 | cj360
