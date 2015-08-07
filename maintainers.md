@@ -43,4 +43,6 @@ Thecrazyskull <anaskarbila@gmail.com>
 
 Niropa <matthewfarted@gmail.com>
 
+Tilak Sidduram <tilaksidduram@gmail.com>
+
 ## Previous ##
