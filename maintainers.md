@@ -45,4 +45,6 @@ Niropa <matthewfarted@gmail.com>
 
 Tilak Sidduram <tilaksidduram@gmail.com>
 
+rohan <purohit.rohan@gmail.com>
+
 ## Previous ##
