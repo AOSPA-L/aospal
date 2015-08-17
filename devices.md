@@ -62,6 +62,8 @@ Z00A | Niropa
 
 z3 | DeviousFusion
 
+z3c | someone755
+
 ## Deprecated devices ##
 
 galaxysmtd | SferaDev

@@ -23,6 +23,8 @@ Saatvik Shukla <me@saatvikshukla.com>
 
 SferaDev <me@sferadev.com>
 
+someone755 <jari.begus@hotmail.com>
+
 SuperHanss <superhanss@aospal.com>
 
 SynnyG <synnyg.devand@gmail.com>
